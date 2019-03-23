@@ -1,1 +1,3 @@
 Le noyau Linux est un noyau de système d'exploitation de type UNIX.
+GNU est un système d'exploitation libre crée par Richard Stallman, maintenu par le projet GNU.
+
