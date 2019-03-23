@@ -1,0 +1,1 @@
+Le noyau Linux est un noyau de système d'exploitation de type UNIX.
